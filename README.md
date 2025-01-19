@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://www.webopedia.com/wp-content/uploads/1997/02/Webo.OracleProfile-1024x1024.png" height="40" alt="storybook logo"  />
+  <img src="https://www.webopedia.com/wp-content/uploads/1997/02/Webo.OracleProfile-1024x1024.png" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
