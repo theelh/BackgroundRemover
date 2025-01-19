@@ -27,11 +27,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://www.webopedia.com/wp-content/uploads/1997/02/Webo.OracleProfile-1024x1024.png" height="40" alt="oracle logo"  />
+  <img src="https://www.leptidigital.fr/logiciels/wp-content/uploads/2023/06/logo-oracle.jpg" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXbDN6MjKqhEQLKobn2Ffg4goxiTe6xptfw&s" height="40" alt="nestjs logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXbDN6MjKqhEQLKobn2Ffg4goxiTe6xptfw&s" height="40" alt="php logo"  />
   <img width="12" />
 </div>
 
